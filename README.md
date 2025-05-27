@@ -1,4 +1,5 @@
 🎮 GameRentalDB – Banco de Dados de Locadora de Jogos
+
 📋 Descrição
 Este projeto consiste na modelagem e implementação de um banco de dados relacional para uma locadora de jogos, utilizando o Azure SQL Database. O projeto foi desenvolvido como parte de uma missão prática para aplicar conhecimentos em modelagem, criação de banco de dados e operações CRUD (Create, Read, Update, Delete).
 
